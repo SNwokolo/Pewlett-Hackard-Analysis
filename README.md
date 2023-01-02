@@ -26,4 +26,5 @@ The mentorship eligibility was created to show which of the current employees wo
 ![Mentorship titles Table](https://github.com/SNwokolo/Pewlett-Hackard-Analysis/blob/7e079801b7dd6e4b0d6d2304f5716706c2443cab/Data/ment%20titles.png)
 
 ![Mentor Dates](https://github.com/SNwokolo/Pewlett-Hackard-Analysis/blob/7e8c5c9f482a0b36a78ba30292c788ca84ebffcd/Data/ment_dates.png)
+
 The table above is another one that can help in our analysis, it shows the hire dates of the retirement-ready employees aka the mentors. The longer the employee has worked for the company, the more knowledge on the ins and outs of the processes they have to provide and therefore, the better qualified these particular employees are to be the program mentors. I am of the opinion that these particular employees would be the best to lead the mentorship program in their various departments and also possibly be the best ones to select other employees (outside the retirement-ready age) to join in the program in order to increase the mentors available for the hiring process after the 'silver tsunami' begins.
